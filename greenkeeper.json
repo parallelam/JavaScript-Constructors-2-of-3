@@ -1,0 +1,11 @@
+{
+  "groups": {
+    "default": {
+      "packages": [
+        "06-ProgrammersWithPrompt/package.json",
+        "07-ProgrammersLoop/package.json",
+        "08-TeamManager/Solved/package.json"
+      ]
+    }
+  }
+}
